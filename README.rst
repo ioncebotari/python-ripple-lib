@@ -78,7 +78,7 @@ Data API Methods
 
 Additional methods
 ------------------
-Send XRP from address tp address via Account instance:
+Send XRP from address to address via Account instance:
 
 .. code-block:: python
 
